@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this framework in research, please cite:"
+authors:
+  - family-names: "Lazareva"
+    given-names: "Olesya"
+title: "UNIVERSE 69: LLM-Native Role-Play Engine & Psychological Game Framework"
+version: 1.0
+date-released: 2025-01-15
+url: "https://github.com/olesyalazareva/universe69"
+license: "MIT"
+keywords:
+  - llm-prompt
+  - game-framework
+  - psychoanalysis
+  - sexology
+  - bivrest-method
+  - role-playing-game
+  - card-game
+  - finite-state-machine
