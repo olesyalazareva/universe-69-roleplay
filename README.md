@@ -6,6 +6,8 @@
 [![Field](https://img.shields.io/badge/Field-Applied%20Psychoanalysis%20%26%20Sexology-red)](#)
 [![LLM-Native](https://img.shields.io/badge/LLM--Native-Game_Engine-blueviolet)](#)
 
+[English version](README.en.md)
+
 **Автор:** Олеся Лазарева (Olesya Lazareva) — психоаналитик, сексолог, игротехник.
 
 **Правовой статус:** Игровая система, балансовые циклы и оригинальная текстовая матрица задепонированы в НРИС. Все права защищены.
