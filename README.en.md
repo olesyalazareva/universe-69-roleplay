@@ -1,6 +1,16 @@
 
 # UNIVERSE 69: LLM-Native Role-Play Engine & Psychological Game Framework
 
+**Stop LLM context drift and hallucinations in roleplay — using UNO card mechanics as a structural container.**
+
+This is a ready-to-use game framework for:
+- Game developers integrating LLM characters
+- Psychotherapists using AI in projective techniques
+- Researchers studying emergent narrative under constraint
+
+Includes: full rules, 54-card matrix, avatars, and solo-play prompt.
+
+---
 **Author:** Olesya Lazareva — psychoanalyst, sexologist, game technician.
 
 **Legal status:** Game system, balance cycles, and original text matrix are deposited. All rights reserved.
