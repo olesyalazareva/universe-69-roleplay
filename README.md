@@ -144,7 +144,6 @@ universe69/
 ├── logs.md # Логи соло-игры и терапевтических сессий
 └── solo-prompt.md # Промпт для соло-игры с ИИ
 
-text
 
 ---
 
@@ -178,8 +177,7 @@ text
   note = {Applied psychoanalysis and sexology framework for LLMs}
 }
 🔗 Связанные проекты
-Метод BIVREST для AI/ML: github.com/olesyalazareva/bivrest-method
-
+Метод BIVREST для AI/ML: https://github.com/olesyalazareva/bivrest-method
 ✉️ Контакты
 Telegram: @olesyalazarevalove
 
