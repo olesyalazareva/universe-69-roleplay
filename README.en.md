@@ -1,98 +1,145 @@
 
-# UNIVERSE 69 — LLM-native Role-Play Engine
+# UNIVERSE 69 — Role-Play Game (18+) with UNO Mechanics
 
-**Psychological role-play game through UNO mechanics**
+**A research tool packaged as a tabletop game**
 
-**The Problem:** LLMs in role-playing games quickly lose context, start hallucinating, and forget the rules. This makes gameplay with AI characters chaotic and uncontrollable. Developers spend months on prompt engineering, but the model still "drifts off."
+**Version:** 1.0  
+**Status:** Game Design Document (GDD)
+## 🏷️ Topics
+card-game, game-design, game-design-document, role-playing-game-system, applied-psychoanalysis, sexology-research, adult-gaming, projective-technique, psychology-research, behavioral-science, research-methodology, group-dynamics, narrative-design, shadow-work, roleplay-framework, bivrest-protocol, social-validation, therapeutic-games, affective-computing, emotion-recognition, behavioral-data-collection, experimental-protocol, llm-training-data, ai-training-data
+---
 
-**What UNIVERSE 69 does:** It's a ready-to-use game framework that **stops context drift and hallucinations** through UNO card mechanics as a structural container. Every move is tied to strict game rules — the model cannot "drift" from the narrative.
+## 📑 Table of Contents
 
-**The Result:** You get a controlled role-play game with AI, where context is maintained for 2+ hours, and characters stay in role without additional prompts.
-
-[![License: Custom](https://img.shields.io/badge/License-MIT--with--commercial--restriction-yellow.svg)](./LICENSE)
-[![Status](https://img.shields.io/badge/Status-Deposited%20(NRIS)-green)](./LICENSE)
+- [The Problem](#-the-problem)
+- [What UNIVERSE 69 Offers](#-what-universe-69-offers)
+- [What UNIVERSE 69 Actually Does](#-what-universe-69-actually-does)
+- [Who UNIVERSE 69 Is For](#-who-universe-69-is-for)
+- [How the Game Works](#-how-the-game-works)
+- [Data Structure](#-data-structure)
+- [Quick Start](#-quick-start)
+- [Integration with BIVREST Protocol](#-integration-with-bivrest-protocol)
+- [Limitations](#-limitations)
+- [Citation](#-citation)
+- [Contacts](#-contacts)
 
 ---
 
-## 🎯 Who Is This For
+## The Problem
 
-- **Game Developers & Designers** — get a ready-made solution for context drift and hallucinations in LLM games
-- **Psychologists & Sexologists** — get a projective technique for working with shadow archetypes
-- **AI & Narrative Researchers** — get an example of emergent gameplay based on strict systemic constraints
-- **Players** — get a ready script for deep role-play sessions in any chatbot
+In role-playing games and research sessions, it's difficult to create a structured environment that simultaneously:
 
----
+- **Triggers spontaneous role-play behavior**
+- **Provides repeatable conditions** for comparison
+- **Collects data** in a unified format
+- **Bypasses psychological defenses** of participants
 
-## 🔥 What Problem Does UNIVERSE 69 Solve
+**What researchers and facilitators face:**
 
-| **Problem** | **Traditional Approach** | **UNIVERSE 69** |
-|:---|:---|:---|
-| Context drift | Constantly fix prompts | Card rules hold the narrative |
-| Hallucinations | Write long system prompts | Game structure limits model's imagination |
-| Integration complexity | Write code from scratch | Ready-made framework with API |
-| No training data | Collect manually | Game automatically generates logs |
+| Method | Problem |
+| :--- | :--- |
+| **Free-form role-play** | No clear rules; players break character; data is incomparable |
+| **Surveys and interviews** | Social desirability bias; participants say what's "acceptable" |
+| **Standardized tests** | Don't elicit spontaneous behavior; detached from real context |
+| **Natural observation** | Data is hard to structure; no repeatability |
 
----
-
-## 🧠 Scientific Foundation
-
-In classic role-playing games, people face internal censorship and fear of judgment (even from AI). UNIVERSE 69 solves this through an **external mathematical imperative** (UNO rules).
-
-**Defense Mechanism Formula:**
-
-> *"It's not me expressing hidden desires — the game's mathematics demands it for my technical victory"*
-
-When a player performs a provocative action, their psyche shifts responsibility from "self" to the random card. This allows them to bypass Ego resistance painlessly and triggers controlled sublimation.
+**The result:** researchers spend time on preparation but get incomparable data, while participants cannot fully immerse in the role-play experience.
 
 ---
 
-## ⚙️ How It Works
+## What UNIVERSE 69 Offers
 
-| **Mechanism** | **How It Works** |
-|:---|:---|
-| **Strict UNO Restriction** | A card can only be played if it's the same suit OR same rank. Trumps are only for the first move |
-| **Token State Protocol** | Requires exactly 6 cards in hand + mandatory technical log to clear model memory and fix variables |
+UNIVERSE 69 is a **session kit for conducting role-playing games** that solves these problems through:
 
----
+1. **Strict UNO structure** — every move is tied to game rules; players cannot "drift" out of character
+2. **Card tasks** — 54 tasks of varying difficulty that trigger spontaneous reactions
+3. **Roles (avatars)** — psychological archetypes for role-play
+4. **BIVREST protocol** — built-in data collection mechanism with binary labeling
 
-## 📊 Game Loop
+**The core idea:**
 
-**Choose Role → 6 Chances → Play Card → Role-Play → Verification → Draw to 6**
+Instead of asking participants: *"How did you feel in your role?"* — the game creates conditions where they **naturally display role-play behavior**. The group then votes on whether that behavior was congruent.
 
-### Emergent Gameplay: Real Game Example
-
-**Situation:** A player (Tight Accountant) must cover a card and plays 3♣.
-
-**Task:** *"Touch yourself erotically"*
-
-**Role-Play:** Instead of a cliché, the player writes:
-
-> *"I look at you in fear, slowly unbutton my blouse, and convulsively count out loud the buttons, stroking the fabric: 1... 2... 37... At the final count, my heroine reaches a mental orgasm from dry numbers alone"*
-
-**Verdict:** ✅ BELIEVE!
-
-The character is maintained, the mathematical task is completed. A unique narrative was born from rigid constraints.
+This **shifts the focus** from self-report to **observable behavior** and generates data that can be statistically analyzed.
 
 ---
 
-## 🃏 Card Matrix (by Difficulty)
+## What UNIVERSE 69 Actually Does
 
-| **Range** | **Difficulty** | **Examples of Tasks** |
-|:---|:---|:---|
+**Important:** UNIVERSE 69 is not a therapeutic method or a ready-made AI solution. It is a **research tool**.
+
+| What UNIVERSE 69 provides | What UNIVERSE 69 does NOT provide |
+| :--- | :--- |
+| A ready-made structure for role-play | A definitive answer to "was it played well?" |
+| An experimental environment with repeatable rules | A clinically validated therapeutic method |
+| A data collection protocol via BIVREST | Automatic dataset generation |
+| Comparability across sessions with fixed rules | A turnkey commercial AI solution |
+
+**UNIVERSE 69 is a tool for studying role-play behavior, group dynamics, and emotional responses in a structured environment.**
+
+It is useful if your research question is:
+
+- "How do people behave in tightly constrained role-play conditions?"
+- "What types of tasks trigger congruent/incongruent behavior?"
+- "How does the group perceive different role-play performances?"
+- "Can labeled data about role-play behavior be collected through games?"
+
+---
+
+## Who UNIVERSE 69 Is For
+
+| Audience | Purpose |
+| :--- | :--- |
+| **Psychologists, psychotherapists, sexologists** | A ready-to-use tool for group work with roles and projections. Rules, cards, roles, scenarios — everything "out of the box." |
+| **Behavioral, narrative, and group dynamics researchers** | An experimental environment with repeatable rules and a data collection protocol (BIVREST) to study group dynamics, congruence, and the impact of tight constraints on creativity. |
+| **Adult players (18+)** | A structure for deep role-play with clear rules and tasks of varying difficulty. |
+| **AI/ML engineers (Affective Computing, Emotion Recognition)** | A labeled data collection protocol (logs with binary "Believe/Don't Believe" labels) for training models that assess social appropriateness, congruence, or trust in a character. |
+
+---
+
+## How the Game Works
+
+### Game Participants
+
+| Role | Description |
+| :--- | :--- |
+| **Players** | 2–9 people, 18+, each chooses an avatar (role) |
+| **Dealer** | Manages the deck, enforces rules, records results |
+| **Group** | Votes after each action via the BIVREST protocol |
+
+### Game Loop
+
+**Choose a role → Receive 6 cards and 6 "Chance" tokens → Play a card (UNO rules) → Role-play the card's task → Group verification (BIVREST) → Draw back up to 6 cards**
+
+### Game Components
+
+| Component | Description |
+| :--- | :--- |
+| **Rules** | Full game rules, loop, mechanics |
+| **Cards** | 54 cards with tasks of varying difficulty |
+| **Roles (avatars)** | Psychological archetypes for role-play |
+| **Scenarios** | 9 psychological scenarios for analyzing game patterns |
+| **BIVREST Protocol** | "Believe/Don't Believe" voting and logging |
+| **LLM Prompt** | For solo play with AI |
+
+### Card Matrix (by difficulty level)
+
+| Range | Difficulty | Example Tasks |
+| :--- | :--- | :--- |
 | 2–5 | Low (warm-up) | Compliments, cocktails, stories, pantomime |
 | 6–9 | Medium (unfolding) | Avatar presentation, fantasies, hugs, submission |
 | 10–Ace | High (depth) | Sensations, experiments, undressing, domination |
-| Joker | Maximum (chaos) | Complete rule breaking |
+| Joker | Maximum (chaos) | Complete rule-breaking |
 
 **Full list of 54 cards with tasks — in `play/cards.md`**
 
 ### Distribution by Psychological Scenarios
 
-| # | **Scenario** | **Cards** |
-|:---|:---|:---|
+| # | Scenario | Cards |
+| :--- | :--- | :--- |
 | 1 | Experimentation | 16 |
 | 2 | Domination / Submission | 8 |
-| 3 | Partner Exchange | 2 |
+| 3 | Partner Replacement | 2 |
 | 4 | Group Sex | 1 |
 | 5 | Observation | 2 |
 | 6 | Rape (archetype) | 1 |
@@ -100,88 +147,134 @@ The character is maintained, the mathematical task is completed. A unique narrat
 | 8 | Sadomasochism | 4 |
 | 9 | Socially Acceptable Deviations | 12 |
 
+**Detailed scenario matrix — in `design/mechanics.md`**
+
 ---
 
-## 📂 Repository Structure
-universe69/
-├── README.md # Main file (you are here)
-├── LICENSE # MIT License with commercial clause
-├── CITATION.cff # How to cite in academic work
-├── design/
-│ └── mechanics.md # Game design, 9 scenarios, archetype matrix
-└── play/
-├── rules.md # Full game rules v1.0
-├── cards.md # 54-card deck with tasks
-├── avatars.md # Role registry (Light / Hard)
-├── logs.md # Solo and therapy session logs
-└── solo-prompt.md # Prompt for solo play with AI
+## Data Structure
 
-text
+### Log Format (via BIVREST)
+
+| Field | Type | Description |
+| :--- | :--- | :--- |
+| `session_id` | string | Session identifier |
+| `round` | integer | Round number |
+| `player_id` | string | Player identifier |
+| `avatar` | string | Player's role |
+| `task` | string | Card task |
+| `action_text` | text | Role-play output (what was said/done) |
+| `votes_believe` | integer | Number of "Believe" votes |
+| `votes_dont_believe` | integer | Number of "Don't Believe" votes |
+| `verdict` | string | "Believe" or "Don't Believe" |
+| `tokens_lost` | integer | How many tokens were lost |
+| `empty_chair` | boolean | Was there a break from role |
+
+**Example log:** `play/logs.md`
 
 ---
 
 ## 🚀 Quick Start
 
-### Group Play (2–9 Players)
-1. Gather a group, choose a dealer
-2. Deal **6 cards** and **6 Chance tokens** to each player
-3. Each player chooses an avatar from `play/avatars.md`
-4. Follow the rules from `play/rules.md`
-5. Speak the truth through your role — if the group doesn't believe you, lose a Chance token
+### 1. Download the materials
 
-### Solo Play (1 Player)
+This repository contains everything needed for a game session.
+
+### 2. Read the key documents
+
+- **Game Rules** (`play/rules.md`) — detailed rules and game loop
+- **Card Deck** (`play/cards.md`) — 54 cards with tasks
+- **Roles (Avatars)** (`play/avatars.md`) — role registry (Light / Hard)
+- **Scenario Matrix** (`design/mechanics.md`) — 9 psychological scenarios
+- **Example Logs** (`play/logs.md`) — what completed data looks like
+
+### 3. Run a session
+
+#### Group Play (2–9 players)
+
+1. Gather your group (18+), choose a dealer
+2. Print cards from `play/cards.md` and avatars from `play/avatars.md`
+3. Deal **6 cards** and **6 "Chance" tokens** to each player
+4. Each player chooses an avatar
+5. Follow the rules in `play/rules.md`
+6. Record results via BIVREST
+
+#### Solo Play (1 player with LLM)
+
 1. Open `play/solo-prompt.md`
 2. Copy the entire prompt
 3. Paste it as the first message in ChatGPT, DeepSeek, or Claude
-4. Play against an AI opponent
+4. Play against the AI opponent
+
+### 4. Analyze the data
+
+The collected logs enable:
+
+- **Quantitative analysis** — frequencies, distributions, dynamics
+- **Comparative analysis** — between different roles, players, sessions
+- **Model training** — if you are collecting data for AI
 
 ---
 
-## 🎮 Connection to BIVREST Method
+## Integration with BIVREST Protocol
 
 UNIVERSE 69 and **BIVREST** are two complementary projects:
 
-| **UNIVERSE 69** | **BIVREST** |
-|:---|:---|
-| LLM-native role-play engine | Ground truth data generator for AI |
-| Context drift & hallucination prevention | Deception detection & emotion recognition training |
-| UNO card mechanics as structural container | Protocol with binary verification |
-| For game designers, psychologists, developers | For AI/ML engineers and researchers |
+- **UNIVERSE 69** creates the context and triggers behavioral responses
+- **BIVREST** evaluates these responses by the group ("Believe/Don't Believe") and records results in a log
 
-**How to use them together:**
-1. Use **UNIVERSE 69** for conducting role-play sessions with LLM
-2. Apply **BIVREST** protocol for verification and data collection
-3. Train your models on annotated data generated from the game
+### How BIVREST is Embedded in UNIVERSE 69
+
+| UNIVERSE 69 Mechanic | Role in BIVREST |
+| :--- | :--- |
+| **Cards with tasks** | Generate information for evaluation (stage I) |
+| **Avatars (roles)** | Provide context for congruence assessment |
+| **"Believe/Don't Believe" voting** | Core verification mechanism (stage B) |
+| **"Chance" tokens** | Resource lost on "Don't Believe" |
+| **"Empty chair"** | Break from role after repeated "Don't Believe" |
+| **Logging** | Recording of all actions and votes |
 
 **Link to project:** [BIVREST on GitHub](https://github.com/olesyalazareva/bivrest-method)
 
 ---
 
-## 📝 How to Cite
+## Limitations
+
+- **Game-based evaluation ≠ objective truth** — the result reflects group perception, not absolute reality
+- **Rules must be fixed** — changing rules makes data incomparable
+- **Multiple sessions required** — for statistically significant data
+- **Social desirability doesn't disappear** — it transforms into a desire to meet group expectations
+- **Not a certified therapeutic method** — a tool for observation and data collection, not a clinical protocol
+
+---
+
+## Citation
 
 ```bibtex
 @misc{lazareva2025universe69,
   author = {Lazareva, Olesya},
-  title = {UNIVERSE 69: LLM-Native Role-Play Engine \& Psychological Game Framework},
+  title = {UNIVERSE 69: Role-Play Game for Behavioral Research and Affective Computing},
   year = {2025},
   url = {https://github.com/olesyalazareva/universe69},
   note = {Applied psychoanalysis and sexology framework for LLMs}
 }
-👩‍💻 Author & Contact
+Contacts
 Olesya Lazareva
-Psychoanalyst-sexologist, Game Technician with 25+ years of practice
+Psychoanalyst-Sexologist, Game Technician with 25 years of experience
 
 Telegram: @olesyalazarevalove
 
 Email: psi-tech@yandex.com
 
-WhatsApp: +79147592410
-
 For commercial licensing inquiries: Telegram only
 
-📄 License & Terms
-Non-Commercial Use: Freely permitted for scientific research and open-source projects, provided that proper attribution is given and a link to this repository is included
+License and Terms
+Non-commercial use (academic research, open-source projects) — free with attribution and a link to this repository
 
-Commercial Use: (e.g., selling solutions based on UNIVERSE 69, corporate implementation) requires explicit permission from the author
+Commercial use (selling solutions based on UNIVERSE 69, corporate deployments) — by agreement with the author
 
-⭐ If you find this project useful for your work, please star the repository — so others can discover it too.
+⭐ If this project is useful for your work, please star the repository — so other researchers and developers can find it.
+
+
+
+---
+
