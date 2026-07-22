@@ -1,3 +1,8 @@
+![License: MIT / Commercial](https://img.shields.io/badge/License-MIT%20%2F%20Proprietary-blue.svg)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
+![LLM: GPT4o | Claude 3.5 | DeepSeek R1](https://img.shields.io/badge/LLM-GPT--4o%20%7C%20Claude--3.5%20%7C%20DeepSeek-orange)
+![Category: Adult Tech / AI Companions](https://img.shields.io/badge/Category-Adult%20Tech-red)
+
 # UNIVERSE 69 — AI-компаньон для твоих фантазий
 
 > **Движок использует прикладной психоанализ для глубокой контекстуальной адаптации LLM. Система создает жесткий контекстуальный коридор (roleplay sandbox), позволяющий модели стабильно удерживать ролевую рамку и генерировать Mature (18+) контент без срывов сценария и галлюцинаций. Это не баг — это архитектура.**
